@@ -1,0 +1,9 @@
+{
+    "Name": "motor-fmri",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Veillette, J.",
+        "Nusbaum, H."
+    ]
+}
