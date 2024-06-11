@@ -1,0 +1,16 @@
+{
+  "AnatomicalReference": "sub-01_ses-1_run-2_fmapid-auto00001_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-01_ses-1_run-2_fmapid-auto00001_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00001",
+  "IntendedFor": [
+    "ses-1/func/sub-01_ses-1_task-motor_run-4_bold.nii.gz",
+    "ses-1/func/sub-01_ses-1_task-motor_run-5_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/data/sub-01/ses-1/fmap/sub-01_ses-1_dir-AP_run-2_epi.nii.gz",
+    "/data/sub-01/ses-1/fmap/sub-01_ses-1_dir-PA_run-2_epi.nii.gz"
+  ],
+  "Units": "Hz"
+}

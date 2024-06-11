@@ -1,0 +1,5 @@
+{
+  "RawSources": [
+    "/tmp/work/fmriprep_23_2_wf/sub_01_wf/bold_ses_1_task_motor_run_9_wf/bold_fit_wf/hmc_boldref_wf/gen_avg/sub-01_ses-1_task-motor_run-9_bold_average.nii.gz"
+  ]
+}
