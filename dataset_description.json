@@ -9,5 +9,8 @@
     "Funding": [
         "NSF BCS 2024923"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "EthicsApprovals": [
+        "UChicago SBS IRB23-1323 "
+    ]
 }
