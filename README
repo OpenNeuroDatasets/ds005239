@@ -6,7 +6,7 @@ We may collect additional data from some of these subjects if they are willing t
 
 Change log
 --------------
-* v1.0.1: For some reason, the fMRIPrep derivatives didn't upload correctly for all subjects in the original version. In this version, added the missing files so it is (hopefully) complete now. 
+* v1.0.1: For some reason, the fMRIPrep derivatives didn't upload correctly for all subjects in the original version. In this version, I've added the missing files so it is (hopefully) complete now. 
 
 References
 --------------
