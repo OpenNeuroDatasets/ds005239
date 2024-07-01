@@ -1,0 +1,10 @@
+{
+    "Name": "betaprep",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "betaprep"
+        }
+    ]
+}
