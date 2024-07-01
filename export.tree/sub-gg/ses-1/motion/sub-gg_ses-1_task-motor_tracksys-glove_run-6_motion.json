@@ -1,8 +1,0 @@
-{
-    "Manufacturer": "5DT Technologies",
-    "TrackingSystemName": "Data Glove 14 MRI",
-    "TaskName": "motor",
-    "SamplingFrequency": 60,
-    "JNTANGChannelCount": 14,
-    "LATENCYChannelCount": 1
-}

@@ -1,8 +1,0 @@
-{
-    "SamplingFrequency": 0.5,
-    "StartTime": 0.0,
-    "Columns": [
-        "timestamp",
-        "trigger"
-    ]
-}
